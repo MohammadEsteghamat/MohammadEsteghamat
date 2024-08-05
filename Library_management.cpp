@@ -13,11 +13,10 @@ private:
 	vector<int> id;
 	vector<int>::iterator it;
 	vector<string>::iterator its;
-	int username;
 
 public:
 	Library_management();
-	void Library_add_member();
+	void Library_add_member(int National_code);
 	void Library_remove_member(int i);
 	void Livrary_add_book(string *name, string *authar1);
 	void Livrary_remove_book(string *name, string *authar1);
@@ -30,18 +29,26 @@ public:
 
 Library_management::Library_management()
 {
-	username = 1000;
 	cout << "welcome" << endl;
 }
 
-void Library_management::Library_add_member()
+void Library_management::Library_add_member(int National_code)
 {
-	id.push_back(username);
+	for (size_t i = 0; i < id.size(); i += 4)
+	{
+		if (id.at(i) == National_code)
+		{
+			cout << "The user with this national code is a member and her username is "
+				 << i + 1000 << endl;
+				 return;
+		}
+	}
+
+	id.push_back(National_code);
 	id.push_back(0);
 	id.push_back(0);
 	id.push_back(0);
-	cout << "username:" << username << endl;
-	username++;
+	cout << "username:" <<id.size()/4+999<< endl;
 }
 
 void Library_management::Library_remove_member(int b)
@@ -54,6 +61,7 @@ void Library_management::Library_remove_member(int b)
 			break;
 		}
 	}
+
 	it = id.begin() + i;
 	id.erase(it, it + 4);
 }
@@ -94,9 +102,7 @@ void Library_management::borrow(int b, string *name, string *authar1)
 				hire.at(i) = 1;
 				bprrower.at(i) = b;
 			}
-
 	}
-	
 }
 
 void Library_management::book_hire()
@@ -128,27 +134,15 @@ void Library_management::printmember(int i)
 
 Library_management::~Library_management()
 {
-	cout << "\nvb" << endl;
+	cout << "\nfhffhh" << endl;
 }
 
 int main()
 {
 	Library_management o;
-	o.Library_add_member();
-	string a = "mohamad";
-	string b = "esteghamat";
-	string *q, *e;
-	q = &a;
-	e = &b;
-	o.Livrary_add_book(q, e);
-	cout<<"\naaaaaaddddd----------\n";
-	o.borrow(1000,q,e);
-	cout<<"\namanat----------------\n";
-	o.book_hire();
-	cout<<"\nprint hire-------------------\n";
-	o.Livrary_remove_book(q, e);
-	cout<<"\nremov-----------------------------\n";
-	o.printmember(0);
+	o.Library_add_member(4812);
+	o.Library_add_member(555);
+	o.Library_add_member(4812);
 
 	return 0;
 }
