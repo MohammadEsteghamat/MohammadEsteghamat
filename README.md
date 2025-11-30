@@ -45,6 +45,10 @@ I love building real-world projects using C++, STM32, Arduino, and machine learn
 My goal is to learn something new every day and apply it in creative ways.
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="450" />
+</p>
+
 
 ## 🚀 Notable Projects
 - 🔧 **STM32 Custom GUI Framework** — A fully custom UI framework using the Windows API  
