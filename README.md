@@ -62,12 +62,9 @@ My goal is to learn something new every day and apply it in creative ways.
 ---
 
 ## ✍️ Random Dev Quote
-
-**It always seems impossible until it's done. - Nelson Mandela**
-
+**When debugging, novices insert corrective code; experts remove faulty code.  
+— Richard E. Pattis**
 ---
-
-
 
 
 
