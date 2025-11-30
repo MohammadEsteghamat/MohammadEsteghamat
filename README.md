@@ -26,4 +26,4 @@ Hi there! Welcome to my GitHub.<br><br>I'm a developer passionate about learning
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/YCZM.gif">
+
