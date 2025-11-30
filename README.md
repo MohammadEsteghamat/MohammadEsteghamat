@@ -61,14 +61,11 @@ My goal is to learn something new every day and apply it in creative ways.
 
 ---
 
-
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**It always seems impossible until it's done. - Nelson Mandela**
 
-It always seems impossible until it's done. - Nelson Mandela
+---
 
 
 
