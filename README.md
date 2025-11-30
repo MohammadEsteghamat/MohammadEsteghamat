@@ -67,6 +67,6 @@ My goal is to learn something new every day and apply it in creative ways.
 
 ## ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&width=800" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&width=1200" alt="Dev Quote"/>
 </p>
 
