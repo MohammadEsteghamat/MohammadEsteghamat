@@ -80,7 +80,9 @@ My goal is to learn something new every day and apply it in creative ways.
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=MohammadEsteghamt&icon=0&color=0)]([https://visitcount.itsvg.in](https://github.com/MohammadEsteghamat/ARM))
-
-
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=MohammadEsteghamt&icon=0&color=0" alt="Visit Count"/>
+  </a>
+</p>
 
