@@ -46,8 +46,9 @@ My goal is to learn something new every day and apply it in creative ways.
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="450" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzQzdmNhNjl6cG1lbnI0ZGh4cTl1bmlmdWJtdGRlejlvdjd5aHZjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CVtNe84hhYF9u/giphy.gif" width="450" />
 </p>
+
 
 
 ## 🚀 Notable Projects
