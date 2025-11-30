@@ -46,7 +46,7 @@ My goal is to learn something new every day and apply it in creative ways.
 
 ---
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Electric_power_source_animation_2.gif" width="450" />
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="450" />
 </p>
 
 
