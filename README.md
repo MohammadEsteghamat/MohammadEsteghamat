@@ -69,11 +69,9 @@ My goal is to learn something new every day and apply it in creative ways.
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&width=800" alt="Dev Quote"/>
 </p>
-
 ## ✍️ Dev Quote
 <p align="center">
-  <img src="https://via.placeholder.com/900x150/1E1E1E/FFFFFF?text=It+is+hard+to+think+that+a+%242+billion+company+with+4,300-plus+people+couldn't+compete+with+six+people+in+blue+jeans.-+Steve+Jobs" alt="Dev Quote"/>
+  <img src="LINK_TO_YOUR_IMAGE" alt="Dev Quote"/>
 </p>
-
 
 
