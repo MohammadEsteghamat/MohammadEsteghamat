@@ -6,10 +6,6 @@ I love building real-world projects using C++, STM32, Arduino, and machine learn
 My goal is to learn something new every day and apply it in creative ways.
 
 ---
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="250" />
-</p>
-
 
 
 ## 🚀 Notable Projects
