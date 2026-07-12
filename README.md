@@ -65,7 +65,8 @@ My goal is to learn something new every day and apply it in creative ways.
 **When debugging, novices insert corrective code; experts remove faulty code.           
                          Richard E. Pattis**
 
----
+--- 
+
 
 
 
